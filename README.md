@@ -9,13 +9,15 @@ This project is inspired by git@github.com:pierrekilly/docker-ros-box.git, and a
 
 # Usage
 
+under `teb-testing`:
+
 1. Initialize your ROS box:
 
-sudo ./teb_ros/init-ros-box.sh
+sudo ./init-ros-box.sh
 
 2. Connect to your ROS box
 
-./teb_ros/target/go.sh
+./target/go.sh
 
 # Testing Procedures
 
